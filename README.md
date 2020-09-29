@@ -1,0 +1,2 @@
+# JSAssignment
+Exercise for JavaScript
